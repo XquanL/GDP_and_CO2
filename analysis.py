@@ -13,3 +13,4 @@ df1 = df[
     ]
 ]
 df1.head()
+df1.tail()
